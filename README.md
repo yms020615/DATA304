@@ -1,6 +1,6 @@
 # DATA304
 
-DATA304 - Big Data Analysis (2023 Fall - Korea University)
+DATA304 - Big Data Analytics (2023 Fall - Korea University)
 
 Project Slide and Implementation
 
